@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Hasara%20Panchani&subtitle=Computer%20Engineering%20Undergraduate&fontSize=40&animation=fadeIn" alt="Header Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&height=70&lines=Hasara+Panchani;Computer+Engineering" alt="Typing SVG Banner" />
 </p>
 
 # 👋 Hi, I'm Hasara Panchani! 
@@ -15,16 +15,9 @@ I am a deeply curious and driven **Computer Engineering Undergraduate Student**.
 ---
 
 ### 🕹️ Dynamic Contribution Timeline
-<!-- This premium animation visualizes your profile updates in a retro theme -->
+<!-- Using the ultra-stable dynamic activity engine -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hasara-269&theme=github-dark-teal&area=true&category=commits" alt="Hasara's Contribution Activity Graph" width="100%" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hasara-269&theme=radical&no-bg=true&margin-w=4" alt="Hasara's Trophies" /></a>
 </p>
 
 ---
@@ -84,13 +77,13 @@ I am a deeply curious and driven **Computer Engineering Undergraduate Student**.
 ### 📊 GitHub Insights & Coding Activity
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hasara-269&show_icons=true&theme=radical&hide_border=true" alt="Hasara's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hasara-269&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Hasara-269&show_icons=true&theme=radical&hide_border=true" alt="Hasara's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasara-269&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Pacman-style retro block-eating animation placeholder -->
+<!-- Linked directly to your newly created action output branch so it displays live animations! -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Dynamic Retro Grid Game Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hasara-269/Hasara-269/output/github-contribution-grid-snake-dark.svg" alt="Dynamic Retro Grid Game Animation" width="100%" />
 </p>
 
 ---
@@ -100,7 +93,5 @@ I am a deeply curious and driven **Computer Engineering Undergraduate Student**.
 * 📧 **Collaboration:** I love working in agile engineering teams. Let's build something scalable and impact-driven!
 
 <p align="center">
-  <img src="https://decent-patterns.netlify.app/images/animated-line.gif" alt="Animated Footer line" width="100%" height="3px" />
-  <br />
   <i>"Engineers don't just write lines of code; we architect systems that solve real-world problems."</i>
 </p>
