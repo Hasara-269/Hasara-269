@@ -81,9 +81,9 @@ I am a deeply curious and driven **Computer Engineering Undergraduate Student**.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasara-269&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Retro Retro Pacman / Ghost Animation Grid -->
+<!-- Retro Pacman / Ghost Animation Grid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hasara-269/Hasara-269/output/github-contribution-grid-snake-dark.svg" alt="Dynamic Retro Pacman Grid Game Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hasara-269/Hasara-269/output/github-contribution-grid-snake.svg" alt="Dynamic Retro Pacman Grid Game Animation" width="100%" />
 </p>
 
 ---
