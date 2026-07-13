@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=9C27B0&center=true&vCenter=true&width=500&height=70&lines=Hasara+Panchani;Computer+Engineering" alt="Typing SVG Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=750&height=120&lines=%3E+INITIALIZING+HASARA-269+WORKSPACE...;%3E+POSITION%3A+Computer+Engineering+Undergraduate;%3E+FOCUS%3A+Computer+Vision++Full-Stack++Algorithms;%3E+STATUS%3A+Driven+by+logic%2C+powered+by+code." alt="Cyberpunk Terminal Banner" />
 </p>
 
 # 👋 Hi, I'm Hasara Panchani! 
@@ -81,9 +81,9 @@ I am a deeply curious and driven **Computer Engineering Undergraduate Student**.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hasara-269&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
-<!-- Linked directly to your newly created action output branch so it displays live animations! -->
+<!-- Retro Retro Pacman / Ghost Animation Grid -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Hasara-269/Hasara-269/output/github-contribution-grid-snake-dark.svg" alt="Dynamic Retro Grid Game Animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/Hasara-269/Hasara-269/output/github-contribution-grid-snake-dark.svg" alt="Dynamic Retro Pacman Grid Game Animation" width="100%" />
 </p>
 
 ---
