@@ -28,7 +28,7 @@ jobs:
           github_user_name: Hasara-269
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake-dark.svg?palette=pacman
           
       # Push the generated files to a separate branch called "output"
       - name: push github-contribution-grid-snake.svg to the output branch
